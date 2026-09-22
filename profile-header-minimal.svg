@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Lin Shun — Selected projects</title>
+  <desc id="desc">Minimal ivory nameplate with charcoal typography and a fine divider.</desc>
+  <rect width="1200" height="240" rx="8" fill="#F6F5F1"/>
+  <text x="64" y="58" fill="#767670" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">SELECTED PROJECTS</text>
+  <text x="60" y="140" fill="#242824" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="400" letter-spacing="-2">Lin Shun</text>
+  <line x1="64" y1="171" x2="1136" y2="171" stroke="#D6D7D0"/>
+  <text x="64" y="206" fill="#666C65" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing=".4">AI applications / Computer vision / Game prototypes</text>
+  <text x="1136" y="206" text-anchor="end" fill="#7D827A" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1">MUMUSAMA75</text>
+</svg>
