@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header.svg" alt="Lin Shun — AI applications, computer vision and interactive systems" width="100%" />
+  <img src="./profile-header.svg?v=2" alt="Lin Shun — Selected projects" width="100%" />
 </p>
 
 <p align="center">
